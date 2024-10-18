@@ -1,0 +1,1 @@
+- loyal: Customers who frequently purchase and receive loyalty rewards.
